@@ -1,0 +1,7 @@
+data/
+!data/**/.gitkeep
+*.csv
+*.parquet
+*.env
+mlruns/
+__pycache__/
